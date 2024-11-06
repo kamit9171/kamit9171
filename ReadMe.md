@@ -26,5 +26,5 @@ Full Stack Engineer @ Capgemini <br>| Java | Spring Boot | Microservices | Angul
 
 
 ![snake gif](https://github.com/kamit9171/kamit9171/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/kamit9171/kamit9171/blob/output/github-contribution-grid-snake.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
