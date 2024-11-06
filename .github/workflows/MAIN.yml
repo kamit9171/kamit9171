@@ -2,12 +2,10 @@ name: Generate Snake
 on:
 
   schedule:
-
-      # every 6 hours
-
     - cron: "0 */6 * * *"
     
     workflow_dispatch:
+    
     jobs:
 
   # This workflow contains a single job called "build"
